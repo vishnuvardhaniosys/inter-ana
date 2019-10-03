@@ -53,7 +53,7 @@ ul li {
 	list-style-type: none;
 }
 .header_section {
-	background-image: url('C:/Users/Vishnu/Desktop/interana/images/banner.png');
+	background-image: url('images/banner.png');
 	background-repeat: no-repeat;
 	/*background-position: top right;*/
 	position: relative;
